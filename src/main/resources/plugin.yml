@@ -1,0 +1,12 @@
+name: Respawn
+version: '${project.version}'
+main: vn.sunext.respawn.Respawn
+api-version: 1.19
+authors: [ sunext_team, adselvn ]
+website: https://github.com/Sunext-vn
+
+commands:
+  respawn:
+
+permissions:
+  respawn.command:
